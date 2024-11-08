@@ -80,9 +80,3 @@ ssein-spare-parts/
 
 This structure aligns with the updated project details. Feel free to further customize it based on any additional specifics of your project.
 
-## Dependencies
-
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-
-Include other dependencies or tools crucial for your project.
