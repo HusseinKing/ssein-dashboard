@@ -19,7 +19,7 @@
 1. Clone the GitLab repository:
 
    ```bash
-   git clone https://github.com/ALVINdimpos/ssein-spare-parts.git
+   git clone https://github.com/HusseinKing/ssein-spare-parts.git
    ```
 
 2. Navigate to the project folder:
@@ -77,6 +77,3 @@ ssein-spare-parts/
 |-- package.json
 |-- ...
 ```
-
-This structure aligns with the updated project details. Feel free to further customize it based on any additional specifics of your project.
-
