@@ -49,9 +49,7 @@ For production build:
 ```bash
 npm run build
 ```
-
 ## Project Structure
-
 ```
 ssein-spare-parts/
 |-- src/
